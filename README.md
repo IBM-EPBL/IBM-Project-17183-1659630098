@@ -1,4 +1,4 @@
-[![PyPI - Python](https://img.shields.io/pypi/pyversions/iconsdk?logo=pypi)](https://pypi.org/project/iconsdk)
+
 [![IBM - Node-RED](https://node-red-zhhhd-2022-10-21.eu-gb.mybluemix.net/red/red/images/node-red.svg)](https://node-red-zhhhd-2022-10-21.eu-gb.mybluemix.net/)
 # IBM-Project-17183-1659630098
 ### Project Title: Personal Assistance for Seniors Who Are Self-Reliant
