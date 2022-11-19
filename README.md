@@ -33,14 +33,14 @@ import pygame
 pygame.init() # initiate pygame
 
 config={
-    "org":"hg0hll",             # Device Organization
-    "type" :"123",              # Device Type
-    "id":"abcd",                # Device ID
+    "org":"****",             # Device Organization
+    "type" :"****",              # Device Type
+    "id":"*****",                # Device ID
     "auth-method":"token",      # Device Authentication Method
-    "auth-token":"123456789"    # Device Authentication Token
+    "auth-token":"*****"    # Device Authentication Token
 }
 url="https://api.eu-gb.text-to-speech.watson.cloud.ibm.com/instances/8e5bc662-02f5-4cc3-b2a3-27086673e789"  # TextToSpeech URL Link
-api="QGXbVq1lTgSFNn8_7wpT1kGVYIKCHG8NLfHnC1BBXNwj"                                                          # TextToSpeech API Key
+api="*******"                                                          # TextToSpeech API Key
 client= ibmiotf.device.Client (config) # Save the device Config in a Varible called client
 client.connect()                       # Connect with the device
 
