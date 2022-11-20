@@ -82,5 +82,5 @@ while True:
 client.disconnect()
 ```
 ## Demo Video
-[![YouTube]([https://www.youtube.com/)](https://www.freepnglogos.com/uploads/youtube-logo-hd-8.png)](https://youtu.be/kiJzl_em4Vw)
+[![YouTube](https://www.freepnglogos.com/uploads/youtube-logo-hd-8.png)](https://youtu.be/kiJzl_em4Vw)
 
