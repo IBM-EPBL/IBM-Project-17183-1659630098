@@ -82,5 +82,6 @@ while True:
 client.disconnect()
 ```
 ## Demo Video
-[![YouTube](https://www.freepnglogos.com/uploads/youtube-logo-hd-8.png)](https://youtu.be/kiJzl_em4Vw)
+var youtubeIcon = require('youtube-logo').icon;
+[![YouTube](console.log(youtubeLogo)](https://youtu.be/kiJzl_em4Vw)
 
